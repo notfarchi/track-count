@@ -1,0 +1,27 @@
+# Arquivos de sistema
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dados e resultados
+video.mp4
+resultado_contagem.txt
+
+# Ambientes virtuais
+.env
+.venv/
+env/
+venv/
+
+# Configurações do VSCode
+.vscode/
+
+# Checkpoints e modelos
+runs/
+*.pt
+*.onnx
+
+# Outros arquivos temporários
+.DS_Store
+*.log
